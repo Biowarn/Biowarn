@@ -3,122 +3,97 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>BioWarn-X | Hope through Innovation</title>
+  <title>BioWarn-X | Smart Dental Implant</title>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
+      font-family: Arial, sans-serif;
+      background-color: #f4f8fb;
       margin: 0;
       padding: 0;
-      background: #f9f9f9;
-      color: #333;
     }
-    header {
-      background-color: #5c1d0f;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.2em;
-    }
-    main {
-      max-width: 850px;
+    .container {
+      max-width: 800px;
       margin: 40px auto;
-      background: white;
+      background-color: #ffffff;
       padding: 30px;
-      border-radius: 14px;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #0056b3;
     }
     h2 {
-      color: #5c1d0f;
+      color: #004080;
+      margin-top: 30px;
     }
-    .wallet-box {
-      background: #fff5e6;
-      padding: 15px;
-      border-left: 5px solid #ff9900;
-      margin-bottom: 20px;
-      word-break: break-word;
+    .box {
+      background-color: #e6f0ff;
+      padding: 15px 20px;
+      border-left: 5px solid #007bff;
+      margin: 20px 0;
+      border-radius: 8px;
     }
-    footer {
+    code {
+      background: #e8e8e8;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .wallet {
+      font-family: 'Courier New', Courier, monospace;
+      word-break: break-all;
+    }
+    .footer {
       text-align: center;
-      padding: 30px 15px;
-      color: #777;
       font-size: 0.9em;
+      color: #888;
+      margin-top: 40px;
     }
   </style>
 </head>
 <body>
-<p style="font-size: 18px; line-height: 1.6; margin-top: 30px;">
-  Unfortunately, as Zoroastrians living in Iran, we face both legal and social restrictions that make it nearly impossible to openly develop or present scientific innovations. Religious discrimination, combined with international sanctions, has created a hostile environment for independent research and technological advancement.
-</p>
-<p style="font-size: 18px; line-height: 1.6;">
-  Despite these challenges, the BioWarn-X Smart Dental Implant project has already shown promising results and has been positively received by experts in the medical and engineering communities. We believe this innovation can save lives and change the future of preventive medicine — but it needs global support to move forward.
-</p>
-<header>
-  <h1>BioWarn-X: A Silent Revolution in Health</h1>
-  <p>Built under pressure. Designed to protect lives.</p>
-</header>
-
-<main>
-
-  <section>
-    <h2>Who We Are</h2>
-    <p>
-      We are independent engineers and researchers from Iran, belonging to the peaceful and ancient Zoroastrian minority.
-      In a country where religious discrimination, censorship, and political limitations affect innovation, we have been forced to remain anonymous.
-      Working without institutional funding, we are building a technology that may save lives—starting with immunocompromised patients.
-    </p>
-  </section>
-
-  <section>
-    <h2>About BioWarn-X</h2>
-    <p>
-      BioWarn-X is a revolutionary passive smart dental implant that detects early infection without radiation or batteries.
-      It uses advanced biocompatible materials and NFC sensing to provide real-time safety feedback for patients undergoing chemotherapy,
-      organ transplant recipients, and those with weakened immune systems.
-    </p>
-  </section>
-
-  <section>
-    <h2>Why We Ask for Support</h2>
-    <p>
-      Due to international sanctions, our nationality, and our religion, we are completely excluded from the global funding ecosystem.
-      We cannot use PayPal, banking systems, or platforms like Patreon or GoFundMe.
-      We are choosing to build BioWarn-X with courage and truth—but we can’t do it alone.
-    </p>
-    <p>
-      If you believe in technological freedom, medical innovation, and religious equality, please help us anonymously using cryptocurrency.
-      Every donation supports testing, materials, and the next prototype. Your support gives hope.
-    </p>
-  </section>
-
-  <section>
-    <h2>Support via Crypto</h2>
-    <div class="wallet-box">
-      <strong>Bitcoin (BTC):</strong><br>
-      bc1qlecn5xyqlqd4rpc85jvfxutvfjd8fu7pf6cg0h
+  <div class="container">
+    <h1>"Innovation Under Pressure: BioWarn-X"</h1>
+    
+    <div class="box">
+      <strong>Why We Seek Crypto-Based Support</strong><br/>
+      As Zoroastrians in Iran, we face serious constraints on scientific innovation due to systemic restrictions and limitations. Traditional fundraising is not feasible under these conditions. For this reason, we are reaching out anonymously to the global community for support — via cryptocurrency — to protect our identities while pushing forward vital biomedical innovation.
     </div>
-    <div class="wallet-box">
-      <strong>Ethereum (ETH):</strong><br>
-      0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA
+
+    <h2>What is BioWarn-X?</h2>
+    <p>
+      BioWarn-X is a next-generation smart dental implant that detects early signs of infection and immune suppression in real-time. It integrates:
+      <ul>
+        <li><strong>Battery-less NFC chip</strong> for external communication</li>
+        <li><strong>Infection biomarkers</strong> monitoring system</li>
+        <li><strong>Biocompatible layered shell</strong> with diagnostic capability</li>
+      </ul>
+    </p>
+
+    <div class="box">
+      <strong>Proof of Concept Completed.</strong><br/>
+      We have finished all primary concept development, modeling, technical documentation, and schematic design. We are now moving toward the prototyping stage — and your support can make it real.
     </div>
-    <div class="wallet-box">
-      <strong>Tether (USDT-ERC20):</strong><br>
-      0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA
+
+    <h2>Donate via Crypto</h2>
+    <p>Your donations directly support the physical prototyping, lab testing, and documentation for regulatory filing.</p>
+
+    <strong>Bitcoin (BTC):</strong>
+    <div class="wallet">bc1qlecn5xyqlqd4rpc85jvfxutvfjd8fu7pf6cg0h</div>
+
+    <strong>Ethereum (ETH):</strong>
+    <div class="wallet">0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA</div>
+
+    <strong>Tether (USDT - ERC20):</strong>
+    <div class="wallet">0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA</div>
+
+    <h2>Contact</h2>
+    <p>If you'd like to contribute, collaborate, or request further documentation, contact us at:</p>
+    <div class="wallet">biowarnproject@gmail.com</div>
+
+    <div class="footer">
+      &copy; 2025 BioWarn-X Initiative | Built under limitation, driven by innovation.
     </div>
-  </section>
-
-  <section>
-    <h2>Contact Us (Secure & Anonymous)</h2>
-    <p>Email: <strong>biowarnproject@gmail.com</strong></p>
-  </section>
-
-</main>
-
-<footer>
-  &copy; 2025 BioWarn-X. Created under pressure, fueled by hope.
-</footer>
-
+  </div>
 </body>
 </html>
