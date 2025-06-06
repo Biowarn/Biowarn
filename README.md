@@ -21,10 +21,10 @@
     }
     h1 {
       text-align: center;
-      color: #0056b3;
+      color: #0047ab;
     }
     h2 {
-      color: #004080;
+      color: #0055cc;
       margin-top: 30px;
     }
     .box {
@@ -34,14 +34,14 @@
       margin: 20px 0;
       border-radius: 8px;
     }
-    code {
-      background: #e8e8e8;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
     .wallet {
+      background-color: #f0f8ff;
+      border-left: 4px solid #007bff;
+      padding: 10px 15px;
       font-family: 'Courier New', Courier, monospace;
+      margin: 10px 0;
       word-break: break-all;
+      border-radius: 5px;
     }
     .footer {
       text-align: center;
@@ -57,39 +57,49 @@
     
     <div class="box">
       <strong>Why We Seek Crypto-Based Support</strong><br/>
-      As Zoroastrians in Iran, we face serious constraints on scientific innovation due to systemic restrictions and limitations. Traditional fundraising is not feasible under these conditions. For this reason, we are reaching out anonymously to the global community for support — via cryptocurrency — to protect our identities while pushing forward vital biomedical innovation.
+      As Zoroastrians living in Iran, we face severe religious discrimination and political restrictions that prevent us from accessing global innovation ecosystems. Because of this, we are forced to remain anonymous while building technologies that could save lives. Cryptocurrency is our only gateway to move beyond borders, fund the project safely, and protect our identities.
     </div>
 
     <h2>What is BioWarn-X?</h2>
     <p>
-      BioWarn-X is a next-generation smart dental implant that detects early signs of infection and immune suppression in real-time. It integrates:
-      <ul>
-        <li><strong>Battery-less NFC chip</strong> for external communication</li>
-        <li><strong>Infection biomarkers</strong> monitoring system</li>
-        <li><strong>Biocompatible layered shell</strong> with diagnostic capability</li>
-      </ul>
+      BioWarn-X is a revolutionary smart dental implant designed to monitor early signs of infection and immune suppression. It includes:
     </p>
+    <ul>
+      <li><strong>Battery-less NFC chip</strong> for contactless communication</li>
+      <li><strong>Real-time infection detection</strong> using biosensors</li>
+      <li><strong>Multi-layer biocompatible structure</strong> for safe integration</li>
+    </ul>
 
     <div class="box">
-      <strong>Proof of Concept Completed.</strong><br/>
-      We have finished all primary concept development, modeling, technical documentation, and schematic design. We are now moving toward the prototyping stage — and your support can make it real.
+      <strong>Proof of Concept Completed</strong><br/>
+      We have already completed the technical documentation, concept schematics, scientific whitepaper, and cross-sectional engineering diagrams. We are now preparing for the prototyping stage, and your donation can help make it happen.
     </div>
 
-    <h2>Donate via Crypto</h2>
-    <p>Your donations directly support the physical prototyping, lab testing, and documentation for regulatory filing.</p>
+    <h2>Support via Crypto</h2>
+    <p>
+      If you believe in decentralized innovation, freedom of science, and human rights — you can support our development anonymously through crypto donations. These funds go directly to prototyping, lab analysis, and patent filings.
+    </p>
 
-    <strong>Bitcoin (BTC):</strong>
-    <div class="wallet">bc1qlecn5xyqlqd4rpc85jvfxutvfjd8fu7pf6cg0h</div>
+    <div class="wallet">
+      <strong>Bitcoin (BTC):</strong><br/>
+      bc1qlecn5xyqlqd4rpc85jvfxutvfjd8fu7pf6cg0h
+    </div>
 
-    <strong>Ethereum (ETH):</strong>
-    <div class="wallet">0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA</div>
+    <div class="wallet">
+      <strong>Ethereum (ETH):</strong><br/>
+      0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA
+    </div>
 
-    <strong>Tether (USDT - ERC20):</strong>
-    <div class="wallet">0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA</div>
+    <div class="wallet">
+      <strong>Tether (USDT - ERC20):</strong><br/>
+      0x758CFd4e26A3b4B5B5725D8405F3342fc77Af4FA
+    </div>
 
     <h2>Contact</h2>
-    <p>If you'd like to contribute, collaborate, or request further documentation, contact us at:</p>
-    <div class="wallet">biowarnproject@gmail.com</div>
+    <p>To collaborate, invest, or request our technical package, email us at:</p>
+    <div class="wallet">
+      biowarnproject@gmail.com
+    </div>
 
     <div class="footer">
       &copy; 2025 BioWarn-X Initiative | Built under limitation, driven by innovation.
