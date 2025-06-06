@@ -49,7 +49,12 @@
   </style>
 </head>
 <body>
-
+<p style="font-size: 18px; line-height: 1.6; margin-top: 30px;">
+  Unfortunately, as Zoroastrians living in Iran, we face both legal and social restrictions that make it nearly impossible to openly develop or present scientific innovations. Religious discrimination, combined with international sanctions, has created a hostile environment for independent research and technological advancement.
+</p>
+<p style="font-size: 18px; line-height: 1.6;">
+  Despite these challenges, the BioWarn-X Smart Dental Implant project has already shown promising results and has been positively received by experts in the medical and engineering communities. We believe this innovation can save lives and change the future of preventive medicine — but it needs global support to move forward.
+</p>
 <header>
   <h1>BioWarn-X: A Silent Revolution in Health</h1>
   <p>Built under pressure. Designed to protect lives.</p>
