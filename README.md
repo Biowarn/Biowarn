@@ -92,6 +92,13 @@
   </section>  <footer>
     &copy; 2025 BioWarn-X Initiative. All rights reserved.
   </footer>
-  https://mirror.xyz/0xDB2F6d4f39838c74A059E75511D263ee94ddD71D/JE2iJMT0d_VYaoRi1kyXFUAtlQOFr_bVC68flO35icM?referrerAddress=0xDB2F6d4f39838c74A059E75511D263ee94ddD71D
+ <hr>
+<h3>🔗 Learn More & Support</h3>
+<p>
+  Read our full article on Mirror:  
+  <a href="https://mirror.xyz/0xDB2F6d4f39838c74A059E75511D263ee94ddD71D/JE2iJMT0d_VYaoRi1kyXFUAtlQOFr_bVC68flO35icM" target="_blank">
+    BioWarn_X – Smart Dental Implant Concept
+  </a>
+</p>
 </body>
 </html>
