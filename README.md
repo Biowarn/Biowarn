@@ -100,5 +100,16 @@
     BioWarn_X – Smart Dental Implant Concept
   </a>
 </p>
-</body>
+<hr style="margin: 3rem auto; width: 80%;">
+<section style="max-width: 900px; margin: auto; padding: 1rem;">
+  <h2 style="color: #004080;">🔗 Read the Full Story on Mirror</h2>
+  <p>
+    BioWarn_X is a smart dental implant that silently detects infection, even under global medical sanctions.  
+    <br><br>
+    🌐 <a href="https://mirror.xyz/0xDB2F6d4f39838c74A059E75511D263ee94ddD71D/JE2iJMT0d_VYaoRi1kyXFUAtlQOFr_bVC68flO35icM" 
+    target="_blank" style="color: #0077cc; font-weight: bold;">
+    Read the Mirror Article & Support the Mission
+    </a>
+  </p>
+</section></body>
 </html>
